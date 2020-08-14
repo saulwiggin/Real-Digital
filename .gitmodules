@@ -1,0 +1,6 @@
+[submodule "Order"]
+	path = Order
+	url = https://github.com/saulwiggin/Order.git
+[submodule "Voucher"]
+	path = Voucher
+	url = https://github.com/saulwiggin/Voucher.git
